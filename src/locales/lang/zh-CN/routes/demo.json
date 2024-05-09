@@ -6,7 +6,8 @@
     "charts": "图表",
     "map": "地图",
     "line": "折线图",
-    "pie": "饼图"
+    "pie": "饼图",
+    "mindmap": "脑图"
   },
   "comp": {
     "comp": "组件",

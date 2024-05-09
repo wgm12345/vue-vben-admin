@@ -72,6 +72,14 @@ const charts: AppRouteModule = {
             title: t('routes.demo.charts.pie'),
           },
         },
+        {
+          path: 'g6-mindmap',
+          name: 'G6Mindmap',
+          component: () => import('@/views/demo/charts/G6Mindmap.vue'),
+          meta: {
+            title: t('routes.demo.charts.mindmap'),
+          },
+        },
       ],
     },
   ],
